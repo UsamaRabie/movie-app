@@ -1,3 +1,3 @@
 preview
 
-splendorous-medovik-24c858.netlify.app
+https://splendorous-medovik-24c858.netlify.app/
